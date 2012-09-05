@@ -1,0 +1,549 @@
+
+<!doctype html>
+<html>
+<head>
+
+<!-- Title -->
+<title>West Virginia White Water Rafting, Family Vacations, and Outdoor Adventures | {site_name}</title>
+
+<!-- Meta -->
+<meta name='keywords' content='rivermen, west virginia, vacation, white water, rafting, new river gorge, zip line, aerial adventures, water activites, new river gorge, gaulley river' />
+<meta name='description' content='Rivermen is the place to plan your West Virginia family vacation, white water rafting trip or outdoor adventure at the New River Gorge Adventure Center near Fayetteville, WV.' />
+<link rel='canonical' href='/favicon.ico' />
+
+
+
+<meta name="robots" content="all">
+<link rel="author" href="humans.txt">
+<meta name="author" content="Paramore | the digital agency">
+
+
+
+
+	<link rel="stylesheet" href="/css/fonts.css" type="text/css" media="screen">
+
+
+
+
+	<link rel="stylesheet/less" href="/css/design.less" type="text/css" media="screen">
+
+
+<!-- All scripts at the bottom, except LESS and Modernizr -->
+
+	<script src="/js/less.js" type="text/javascript"></script>
+
+<script src="/js/modernizr.js" type="text/javascript"></script>
+
+</head>
+
+<body class="home">
+    
+<!-- ClickTale Top part -->
+<script type="text/javascript">
+var WRInitTime=(new Date()).getTime();
+</script>
+<!-- ClickTale end of Top part -->
+
+  
+
+	<div id="wrap" class="float-clear">
+
+
+		<header id="header" class="float-clear">
+			<nav class="utility">
+				<ul>
+    <li class="node_trip-photo-video level_1 first_child">
+					<a href="/misc/trip-photo-video">Trip Photo/Video</a>
+				    </li>
+    <li class="node_trip-planning level_1 has_children">
+					<a href="/misc/trip-planning">Trip Planning</a>
+				    </li>
+    <li class="node_online-catalog level_1">
+					<a href="/misc/online-catalog">Online Catalog</a>
+				    </li>
+    <li class="node_contact-us level_1 has_children">
+					<a href="/misc/contact-us">Contact Us</a>
+				    </li>
+    <li class="node_your-itinerary level_1 last_child">
+					<a href="/itinerary">Your Itinerary</a>
+				    </li>
+</ul>
+
+			</nav><!-- /utility -->
+
+			<div id="global-nav" class="float-clear">
+				<div class="float-clear">
+					<div id="logo" class="left">
+						<a href="/">{site_name}</a>
+					</div><!-- /logo -->
+
+					<nav class="site right">
+						<ul>
+    <li class="node_about-rivermen level_1 has_children first_child">
+							<a href="/about/about-rivermen">About Rivermen</a> 
+						    </li>
+    <li class="node_all-inclusive-vacations level_1 has_children">
+							<a href="/all-inclusive-vacations/all-inclusive-vacations">All-Inclusive Vacations</a> 
+						    </li>
+    <li class="node_getaway-vacations level_1">
+							<a href="/getaway-vacations">Getaway Vacations</a> 
+						    </li>
+    <li class="node_visiting-southern-west-virginia level_1 has_children">
+							<a href="/new-river-gorge/visiting-southern-west-virginia">Around New River Gorge</a> 
+						    </li>
+    <li class="node_blog level_1">
+							<a href="/blog">Blog</a> 
+						    </li>
+    <li class="node_weddings-special-events level_1 has_children">
+							<a href="/special-events/weddings-special-events">Weddings &amp; Special Events</a> 
+						    </li>
+    <li class="node_something-for-everyone level_1 last_child">
+							<a href="/something-for-everyone/something-for-everyone">Something for Everyone</a> 
+						    </li>
+</ul>
+
+					</nav><!-- /site-nav -->
+				</div>
+
+				<nav class="sections right">
+					<ul>
+    <li class="node_play level_1 has_children first_child">
+						<a href="/play">Play</a>
+					    </li>
+    <li class="node_stay level_1">
+						<a href="/stay">Stay</a>
+					    </li>
+    <li class="node_eat level_1">
+						<a href="/eat">Eat</a>
+					    </li>
+    <li class="node_shop level_1 last_child">
+						<a href="/shop">Shop</a>
+					    </li>
+</ul>
+
+				</nav><!-- /sections -->
+			</div>
+		</header><!-- /header -->
+
+		
+		<div id="main-content" class="float-clear">
+			<section id="billboards" class="carousel">
+				
+					<div class="billboard slide" style="background-image: url();">
+						<div class="inner-content">
+							<div class="text">
+								<p class="title">Play Wild&#8230; Stay Civilized</p>
+								<p>
+									<a class="button" href="https://reservations.adventuresonthegorge.com/?locationId=1">Book Now <span class="icon button-arrow-right-wh"></span></a>
+								</p>
+							</div>
+							
+							<div class="wv-logo">
+								<a href="http://wvtourism.com" target="_blank">West Virginia Tourism</a>
+							</div>
+						</div>
+					</div>
+				
+					<div class="billboard slide" style="background-image: url();">
+						<div class="inner-content">
+							<div class="text">
+								<p class="title">Discover your inner Tarzan.</p>
+								<p>
+									<a class="button" href="https://reservations.adventuresonthegorge.com/?locationId=1">Book Now <span class="icon button-arrow-right-wh"></span></a>
+								</p>
+							</div>
+							
+							<div class="wv-logo">
+								<a href="http://wvtourism.com" target="_blank">West Virginia Tourism</a>
+							</div>
+						</div>
+					</div>
+				
+					<div class="billboard slide" style="background-image: url();">
+						<div class="inner-content">
+							<div class="text">
+								<p class="title">Sleep it off.</p>
+								<p>
+									<a class="button" href="https://reservations.adventuresonthegorge.com/?locationId=1">Book Now <span class="icon button-arrow-right-wh"></span></a>
+								</p>
+							</div>
+							
+							<div class="wv-logo">
+								<a href="http://wvtourism.com" target="_blank">West Virginia Tourism</a>
+							</div>
+						</div>
+					</div>
+				
+					<div class="billboard slide" style="background-image: url();">
+						<div class="inner-content">
+							<div class="text">
+								<p class="title">From dinner bell to dining table.</p>
+								<p>
+									<a class="button" href="https://reservations.adventuresonthegorge.com/?locationId=1">Book Now <span class="icon button-arrow-right-wh"></span></a>
+								</p>
+							</div>
+							
+							<div class="wv-logo">
+								<a href="http://wvtourism.com" target="_blank">West Virginia Tourism</a>
+							</div>
+						</div>
+					</div>
+				
+			</section><!-- /billboard -->
+			
+			<div class="inner-wrap float-clear">
+				<div class="row cta float-clear">
+					
+					<div class="column box blue contact left">
+						<span class="icon phone"></span>
+						<span class="phone-number">
+							
+																	{phone_number}
+															
+						</span>
+						<a href="http://chat.onthegorge.com/chat/chatstart.aspx?domain=www.rivermen.com" class="button chat-btn" target="_blank">Live Chat <span class="icon chat"></span></a>
+					</div>
+
+					
+					<div class="column box blue social right float-clear">
+						<ul class="social-icons float-clear left">
+							{social_buttons}
+						</ul>
+
+						<div class="signup">
+							<form action="http://cl.exct.net/subscribe.aspx?lid=1091622" id="subscribeForm" name="subscribeForm" method="post">
+								<input name="MID" type="hidden" value="10222333"> 
+								<input name="subaction" type="hidden" value="Join our List">
+								<input name="thx" type="hidden" value="http://rivermen.com/misc/email-updates-thank-you">
+								<input name="err" type="hidden" value="http://rivermen.com/misc/an-error-occurred">
+								<input name="Email Address" type="text" title="Enter email for updates" class="text-replace right">
+								<a class="signup-btn" href="#">Go</a>
+							</form>
+						</div>
+					</div>
+				</div><!-- /.row -->
+
+				<div class="row float-clear">
+					
+					{embed="inc/.featured-deal" box="y" float="left" heading="bottom"}
+					{embed="inc/.featured-getaway" box="y" float="left" heading="bottom"}
+
+					
+					<section id="upcoming-events" class="column box left">
+						{embed="inc/.upcoming-events"}
+					</section>
+				</div><!-- /.row -->
+
+				<div class="row float-clear">
+					
+					<section id="guest-stories" class="column first-child left float-clear">
+						<h2>Guest Stories</h2>
+
+						
+							<div class="left image-name">
+								<div class="image">
+									<img src="" alt="" />
+								</div>
+								<p>
+									<span class="name">Jason Mayo</span><br>
+									<span class="location">Mentor, OH</span>
+								</p>
+
+							</div>
+
+							<div class="story left">
+								
+	When Jason Mayo booked his first trip with Rivermen 8 years ago, he could hardly imagine how much he would become a part of our company lore. Jason&#39;s not just...
+								<p class="more"><a href="{path='about/guest-reviews'}">Read more &raquo;</a></p>
+							</div>
+						
+					</section>
+					
+					
+					<section id="guest-reviews" class="column left">
+						<h2>Guest Reviews</h2>
+						<ul>
+							
+								<li>
+									<p>All Inclusive</p>
+									<div class="excerpt">
+										<p>
+											
+	We absolutely will do another all-inclusive deal. It was nice to come back exhausted from the day to a warm meal at Smokey&#39;s and enjoy the beautiful view of the gorge.
+<br>
+											<em>, </em>
+										</p>
+									</div><!-- .excerpt -->
+								</li>
+							
+						</ul>
+						<p class="more"><a href="{path='about/guest-reviews'}">Read more &raquo;</a></p>
+					</section>
+					
+					
+					<section id="featured-guide" class="column last-child left float-clear">
+						<h2>Featured Guide</h2>
+						
+						<div class="image left">
+							<img src="" alt="Scemery" />
+						</div>
+
+						<div class="details left">
+							<h3>Scott Emery</h3>
+							<p>
+	If you&#39;ve ever been on a Rivermen trip and wondered, "Who&#39;s the guide with the booming command...
+
+							<p class="more">
+								<a href="{path='guides'}/scemery">Learn more &raquo;</a>
+							</p>
+						</div>
+						
+					</section>
+				</div>
+
+				<section id="blogs" class="box">
+					<a class="prev browse left"></a>
+					<div class="carousel blog-scroll">
+						<div class="items">
+						
+							<article class="blog-entry slide">
+								<div class="image">
+									<img src="" alt="" />
+									<div class="shadow"></div>
+								</div>
+
+								<div class="excerpt">
+									<h3>Just Look at All the New Stuff!</h3>
+									<p>
+	TimberTrek, swimming pool, decks, remodels... Around Adventures On the Gorge, 2012 is becoming known as the year of...
+									<p class="more"><a href="{path='blog/entry'}/just-look-at-all-the-new-stuff">Read more &raquo;</a></p>
+								</div>
+							</article>
+						
+							<article class="blog-entry slide">
+								<div class="image">
+									<img src="" alt="" />
+									<div class="shadow"></div>
+								</div>
+
+								<div class="excerpt">
+									<h3>How Sweets It Is</h3>
+									<p>
+	The most stressful 30 seconds of my entire raft-guiding career.</p>
+
+									<p class="more"><a href="{path='blog/entry'}/how-sweets-it-is">Read more &raquo;</a></p>
+								</div>
+							</article>
+						
+							<article class="blog-entry slide">
+								<div class="image">
+									<img src="" alt="" />
+									<div class="shadow"></div>
+								</div>
+
+								<div class="excerpt">
+									<h3>Essence of Gauley Guide</h3>
+									<p>
+	Bold... daring... adventurous... see the Video now.</p>
+
+									<p class="more"><a href="{path='blog/entry'}/essence-of-gauley-guide">Read more &raquo;</a></p>
+								</div>
+							</article>
+						
+							<article class="blog-entry slide">
+								<div class="image">
+									<img src="" alt="" />
+									<div class="shadow"></div>
+								</div>
+
+								<div class="excerpt">
+									<h3>No Drought Here!</h3>
+									<p>
+	Where is there NOT a drought? Right here.</p>
+
+									<p class="more"><a href="{path='blog/entry'}/no-drought-here">Read more &raquo;</a></p>
+								</div>
+							</article>
+						
+							<article class="blog-entry slide">
+								<div class="image">
+									<img src="" alt="" />
+									<div class="shadow"></div>
+								</div>
+
+								<div class="excerpt">
+									<h3>2-for-1 Whitewater</h3>
+									<p>
+	With July 4th past, we have officially entered what we affectionately call &ldquo;The Second Half of...
+									<p class="more"><a href="{path='blog/entry'}/2-for-1-whitewater">Read more &raquo;</a></p>
+								</div>
+							</article>
+						
+							<article class="blog-entry slide">
+								<div class="image">
+									<img src="" alt="" />
+									<div class="shadow"></div>
+								</div>
+
+								<div class="excerpt">
+									<h3>Panoramas On the Gorge</h3>
+									<p>
+	A small library of stunning panoramic photos.</p>
+
+									<p class="more"><a href="{path='blog/entry'}/panoramas-on-the-gorge1">Read more &raquo;</a></p>
+								</div>
+							</article>
+						
+							<article class="blog-entry slide">
+								<div class="image">
+									<img src="" alt="" />
+									<div class="shadow"></div>
+								</div>
+
+								<div class="excerpt">
+									<h3>Gauley River Surprises</h3>
+									<p>
+	The best trip possible: the Spring Gauley.</p>
+
+									<p class="more"><a href="{path='blog/entry'}/gauley-river-surprises">Read more &raquo;</a></p>
+								</div>
+							</article>
+						
+							<article class="blog-entry slide">
+								<div class="image">
+									<img src="" alt="" />
+									<div class="shadow"></div>
+								</div>
+
+								<div class="excerpt">
+									<h3>3 New River Trips in 2012</h3>
+									<p>
+	We&rsquo;re offering 3 new rafting trips this year&mdash;from mild to wild.</p>
+
+									<p class="more"><a href="{path='blog/entry'}/3-new-river-trips-in-2012">Read more &raquo;</a></p>
+								</div>
+							</article>
+						
+							<article class="blog-entry slide">
+								<div class="image">
+									<img src="" alt="" />
+									<div class="shadow"></div>
+								</div>
+
+								<div class="excerpt">
+									<h3>The Endless Underworld Hike</h3>
+									<p>
+	The Endless Wall Loop Trail has a secret cousin&mdash;let&#39;s call it the Endless Underworld...
+									<p class="more"><a href="{path='blog/entry'}/the-endless-underworld-hike">Read more &raquo;</a></p>
+								</div>
+							</article>
+						
+							<article class="blog-entry slide">
+								<div class="image">
+									<img src="" alt="" />
+									<div class="shadow"></div>
+								</div>
+
+								<div class="excerpt">
+									<h3>The Best Hike Ever</h3>
+									<p>
+	Hiking is best when it&#39;s an adventure&mdash;when the outcome is not 100% certain.</p>
+
+									<p class="more"><a href="{path='blog/entry'}/the-best-hike-ever">Read more &raquo;</a></p>
+								</div>
+							</article>
+						
+							<article class="blog-entry slide">
+								<div class="image">
+									<img src="" alt="" />
+									<div class="shadow"></div>
+								</div>
+
+								<div class="excerpt">
+									<h3>Ranking the Rivers, Part 2</h3>
+									<p>
+	The top run listed here is NOT the Upper Gauley. Say what?!</p>
+
+									<p class="more"><a href="{path='blog/entry'}/ranking-the-rivers-part-2">Read more &raquo;</a></p>
+								</div>
+							</article>
+						
+							<article class="blog-entry slide">
+								<div class="image">
+									<img src="" alt="" />
+									<div class="shadow"></div>
+								</div>
+
+								<div class="excerpt">
+									<h3>The Lost Gauley</h3>
+									<p>
+	In 1966 Summersville Dam sealed the fate of the Lost Gauley. What&#39;s it like now?</p>
+
+									<p class="more"><a href="{path='blog/entry'}/the-lost-gauley">Read more &raquo;</a></p>
+								</div>
+							</article>
+						
+							<article class="blog-entry slide">
+								<div class="image">
+									<img src="" alt="" />
+									<div class="shadow"></div>
+								</div>
+
+								<div class="excerpt">
+									<h3>The Historic Fayette Theater</h3>
+									<p>
+	The Historic Fayette Theater preserves a landmark and its legacy for the community.</p>
+
+									<p class="more"><a href="{path='blog/entry'}/the-historic-fayette-theater">Read more &raquo;</a></p>
+								</div>
+							</article>
+						
+							<article class="blog-entry slide">
+								<div class="image">
+									<img src="" alt="" />
+									<div class="shadow"></div>
+								</div>
+
+								<div class="excerpt">
+									<h3>The Rivermen Tribe</h3>
+									<p>
+	Ever have one of those small-world moments when you run into an old friend in the oddest...
+									<p class="more"><a href="{path='blog/entry'}/the-rivermen-tribe">Read more &raquo;</a></p>
+								</div>
+							</article>
+						
+							<article class="blog-entry slide">
+								<div class="image">
+									<img src="" alt="" />
+									<div class="shadow"></div>
+								</div>
+
+								<div class="excerpt">
+									<h3>Breakin&#8217; the Law!</h3>
+									Admiring the scenic beauty of West Virginia, Andy lay his head against the window and watched the colors...
+									<p class="more"><a href="{path='blog/entry'}/breakin-the-law">Read more &raquo;</a></p>
+								</div>
+							</article>
+						
+							<article class="blog-entry slide">
+								<div class="image">
+									<img src="" alt="" />
+									<div class="shadow"></div>
+								</div>
+
+								<div class="excerpt">
+									<h3>The Raft of Love</h3>
+									That night, while hanging around our campfire, I told my boyfriend for the first time that I loved...
+									<p class="more"><a href="{path='blog/entry'}/the-raft-of-love">Read more &raquo;</a></p>
+								</div>
+							</article>
+						
+						</div>
+					</div>
+					<a class="next browse right"></a>
+				</section>
+			</div> <!-- /inner-wrap -->
+
+		</div><!-- /main-content -->
+
+{embed="inc/.footer"}
