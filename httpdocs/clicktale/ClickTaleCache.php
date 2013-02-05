@@ -22,7 +22,7 @@
 
 header("X-Robots-Tag: noindex, nofollow", true);
 
-$system_path = "../../admin";
+$system_path = "../../system";
 
 if (realpath($system_path) !== FALSE)
 {
